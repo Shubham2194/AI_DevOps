@@ -13,9 +13,6 @@ Better prompts help generate more accurate, structured, and cost-optimized outpu
 - Few-shot prompting
 - Multi-shot prompting
 - Chain of Thought (CoT)
-- Prompt structure design
-- Output formatting
-- Cost optimization using better prompts
 
 ---
 
