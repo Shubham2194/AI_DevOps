@@ -1,8 +1,3 @@
-# AI for DevOps 🚀
-
-A practical roadmap for learning and implementing AI in DevOps workflows.
-
-
 ## 1. Prompt Engineering
 Understanding how to interact effectively with LLMs.
 
