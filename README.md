@@ -26,7 +26,7 @@ The goal is to move beyond just using AI tools and actually understand:
 
 # 📌 AI for DevOps Roadmap
 
-## Phase 1 — Prompt Engineering
+📈 Phase 1 — Prompt Engineering
 
 Understanding how to communicate effectively with LLMs.
 
